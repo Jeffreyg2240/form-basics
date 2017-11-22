@@ -26,7 +26,6 @@ hr {
 form {
     margin: 30px;
 }
-
 input {
     margin: 5px;
     height: 30px;
@@ -46,5 +45,6 @@ input {
 }
 
 .blue-button:hover {
-    background: #3cb0fd;
+    color: #2ad630;
+    background: #2ad630;
 }
